@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>11002A98-E1CA-41B4-A50E-88706D633498</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Technology</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>54939F42D29C383CFFC05F63316671EF38352E5D</key>
+		<string>https://github.com/IOSfengjie/Xiang-mu_1.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Technology/Technology.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>54939F42D29C383CFFC05F63316671EF38352E5D</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/IOSfengjie/Xiang-mu_1.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>54939F42D29C383CFFC05F63316671EF38352E5D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>54939F42D29C383CFFC05F63316671EF38352E5D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Xiang-mu_1</string>
+		</dict>
+	</array>
+</dict>
+</plist>

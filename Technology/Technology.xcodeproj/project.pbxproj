@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C27CEA761B0EBF3E007686A4 /* RootViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C27CEA751B0EBF3E007686A4 /* RootViewController.m */; };
 		C28E4A6F1B0DB26B00387E20 /* TouchScrollView.m in Sources */ = {isa = PBXBuildFile; fileRef = C28E4A6E1B0DB26B00387E20 /* TouchScrollView.m */; };
 		C28E4A721B0DB4F100387E20 /* ImageController.m in Sources */ = {isa = PBXBuildFile; fileRef = C28E4A711B0DB4F100387E20 /* ImageController.m */; };
 		C2E58EAA1B0C7AA200D147CD /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = C2E58EA91B0C7AA200D147CD /* main.m */; };
@@ -31,6 +32,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		C27CEA741B0EBF3E007686A4 /* RootViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RootViewController.h; sourceTree = "<group>"; };
+		C27CEA751B0EBF3E007686A4 /* RootViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RootViewController.m; sourceTree = "<group>"; };
 		C28E4A6D1B0DB26B00387E20 /* TouchScrollView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TouchScrollView.h; sourceTree = "<group>"; };
 		C28E4A6E1B0DB26B00387E20 /* TouchScrollView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TouchScrollView.m; sourceTree = "<group>"; };
 		C28E4A701B0DB4F100387E20 /* ImageController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ImageController.h; sourceTree = "<group>"; };
@@ -133,6 +136,8 @@
 			isa = PBXGroup;
 			children = (
 				C2E58ED41B0CA79F00D147CD /* 1.png */,
+				C27CEA741B0EBF3E007686A4 /* RootViewController.h */,
+				C27CEA751B0EBF3E007686A4 /* RootViewController.m */,
 				C2E58ECE1B0C852A00D147CD /* ListTableViewController.h */,
 				C2E58ECF1B0C852A00D147CD /* ListTableViewController.m */,
 				C2E58ED91B0CAE0E00D147CD /* ListScrollViewCell.h */,
@@ -253,6 +258,7 @@
 				C28E4A6F1B0DB26B00387E20 /* TouchScrollView.m in Sources */,
 				C28E4A721B0DB4F100387E20 /* ImageController.m in Sources */,
 				C2E58EAA1B0C7AA200D147CD /* main.m in Sources */,
+				C27CEA761B0EBF3E007686A4 /* RootViewController.m in Sources */,
 				C2E58ED81B0CADD800D147CD /* ListViewCell.m in Sources */,
 				C2E58ED31B0C910600D147CD /* ListViewController.m in Sources */,
 				C2E58ED01B0C852A00D147CD /* ListTableViewController.m in Sources */,
